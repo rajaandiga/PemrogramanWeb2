@@ -8,4 +8,20 @@ class Home extends BaseController
     {
         return view('Home');
     }
+
+    public function chart(){
+        return view('chart');
+    }
+
+    public function checkout(){
+        return view('checkout');
+    }
+
+    public function search(){
+        return view('search');
+    }
+
+    public function submit(){
+        return view('submit');
+    }
 }

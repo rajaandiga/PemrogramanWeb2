@@ -33,7 +33,7 @@
     </div>
     <div class="row mt-5">
         <div class="col-12">
-            <h2 class="mb-3">Buku Best Seller</h2>
+            <h2 class="mb-3">Hasil Pencariana</h2>
             <div class="row">
                 <div class="col-4 p-3">
                     <div class="card">
