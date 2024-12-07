@@ -11,3 +11,8 @@ $routes->get('/checkout', 'Home::checkout');
 $routes->get('/search', 'Home::search');
 $routes->post('/submit', 'Home::submit');
 
+//admin
+$routes->get('admin/pelanggan', 'AdminController::pelanggan');
+
+service('auth')->routes($routes);
+
